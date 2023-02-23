@@ -4,6 +4,6 @@ This project uses next API:
 ⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/yout...
 And has limits to fetching data from the API (250 request per month) - it might be reached at 20-30 min.
 Deployed here:
-https://gym-js.netlify.app/
+https://gym-js-react.netlify.app
 
 ![gym](https://user-images.githubusercontent.com/105970854/208760401-63efeefa-68bb-4966-a190-86d08ee0c35f.png)
